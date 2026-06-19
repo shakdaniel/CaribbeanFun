@@ -5,6 +5,13 @@ Lime is a Caribbean-themed social platform and games hub. The name comes from
 
 Built with **Next.js (App Router) + TypeScript + Tailwind CSS**.
 
+## 🚀 One-tap deploy
+
+Tap the button below (works on mobile), sign in with GitHub, and confirm — you'll
+get a live `https://….vercel.app` URL in about a minute. No setup required.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/shakdaniel/CaribbeanFun)
+
 ## ✨ Features
 
 ### Social
